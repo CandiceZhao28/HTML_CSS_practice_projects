@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(10, 10, 80);
+    color: white;
+    font-family: Arial, sans-serif;
+}
+#container {
+    width: 80%;
+    height: auto;
+    background-color: rgb(163, 200, 248);
+    margin-top: 0px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+    padding-top: 20px;
+}
+h2 {
+    text-align: center;
+    padding: 0px;
+    color:rgb(10, 10, 80);
+}
+table {
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    border: white solid 1px;
+}
+thead {
+    background-color: yellowgreen;
+}
+tbody {
+    background-color: thistle;
+}
+td {
+    border: white solid 1px;
+    text-align: center;
+}
+.code {
+    font-family: monospace;
+    background-color: pink;
+    color: rgb(10, 10, 80);
+}
+.description {
+    color: rgb(10, 10, 80); 
+    background-color:wheat;
+    font-size: small;
+    text-align: left;
+}
+main {
+    padding-bottom: 30px;
+}
